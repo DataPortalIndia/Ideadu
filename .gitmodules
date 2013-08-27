@@ -25,3 +25,6 @@
 [submodule "Postal_pocket"]
 	path = Postal_pocket
 	url = https://github.com/aanchalnagpal/Postal_pocket
+[submodule "know_your_mp"]
+	path = know_your_mp
+	url = https://github.com/deep1109/know_your_mp
