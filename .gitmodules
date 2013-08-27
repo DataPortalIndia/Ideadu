@@ -4,3 +4,6 @@
 [submodule "Boffins"]
 	path = Boffins
 	url = https://github.com/ankitsh/pro
+[submodule "Medi-Friend"]
+	path = Medi-Friend
+	url = https://github.com/packcode/Medi-Friend
