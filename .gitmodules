@@ -16,3 +16,6 @@
 [submodule "Piped_water_information_system"]
 	path = Piped_water_information_system
 	url = https://github.com/coderzz/project---PWAS
+[submodule "Know_Your_City"]
+	path = Know_Your_City
+	url = https://github.com/tanviarora/Know_Your_City
