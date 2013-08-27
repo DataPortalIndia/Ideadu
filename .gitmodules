@@ -13,3 +13,6 @@
 [submodule "AnAnt"]
 	path = AnAnt
 	url = https://github.com/rajpushkar/Summer_Project
+[submodule "Piped_water_information_system"]
+	path = Piped_water_information_system
+	url = https://github.com/coderzz/project---PWAS
