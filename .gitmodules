@@ -7,3 +7,6 @@
 [submodule "Medi-Friend"]
 	path = Medi-Friend
 	url = https://github.com/packcode/Medi-Friend
+[submodule "MyWater_MyCondition"]
+	path = MyWater_MyCondition
+	url = https://github.com/vineetamehta/MyWater_MyCondition
