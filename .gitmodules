@@ -1,3 +1,6 @@
 [submodule "crop_information_system"]
 	path = crop_information_system
 	url = https://github.com/macrawat/Summer_Project
+[submodule "Boffins"]
+	path = Boffins
+	url = https://github.com/ankitsh/pro
