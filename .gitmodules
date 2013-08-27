@@ -31,3 +31,6 @@
 [submodule "common_service_centers"]
 	path = common_service_centers
 	url = https://github.com/jyoti91/project
+[submodule "exim-guide"]
+	path = exim-guide
+	url = https://github.com/kapoorabhish/exim-guide
