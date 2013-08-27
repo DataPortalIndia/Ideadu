@@ -28,3 +28,6 @@
 [submodule "know_your_mp"]
 	path = know_your_mp
 	url = https://github.com/deep1109/know_your_mp
+[submodule "common_service_centers"]
+	path = common_service_centers
+	url = https://github.com/jyoti91/project
