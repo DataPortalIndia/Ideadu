@@ -34,3 +34,6 @@
 [submodule "exim-guide"]
 	path = exim-guide
 	url = https://github.com/kapoorabhish/exim-guide
+[submodule "indiaataglance"]
+	path = indiaataglance
+	url = https://github.com/anjalig/indiaataglance
