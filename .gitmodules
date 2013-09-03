@@ -37,3 +37,6 @@
 [submodule "indiaataglance"]
 	path = indiaataglance
 	url = https://github.com/anjalig/indiaataglance
+[submodule "philately"]
+	path = philately
+	url = https://github.com/jainmanisha/IIC_Project/
