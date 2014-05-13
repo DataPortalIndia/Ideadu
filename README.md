@@ -3,4 +3,4 @@ Ideadu
 
 In pursuit of an idea
 
-* http://data.gov.in/community/idea-collaboration
+* http://data.gov.in/event/pursuit-idea
